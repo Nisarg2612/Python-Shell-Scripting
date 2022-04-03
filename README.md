@@ -2,7 +2,7 @@
 **Mini Projects**
 
 
-**Project 1: Search Engine**
+**Project 1: Crawling Search Engine**
 
 The search engine, crawl the content over the newhaven.edu domain.
 The crawled content stored in JSON format with set.
@@ -15,7 +15,7 @@ Launch the search engine using the command prompt python.exe, first run load.py 
 **Project 2: Web interface of search engine**
 
 Basically it is program which provides the user interface to search the content over university of new haven website("http://www.newhaven.edu/").
-To run the project on PC, clone the repo to a local directory or download it as zip and un-zip it.
+To run the project on PC, clone the repo to a local directory or download it as zip and extract it.
 Open the folder or clone repo on python editor.
 Navigate to interface.py and run the file using the command **python interface.py** and once command prompt shows message like serving on port 8765 than after go to internet search engine and write **localhot:8765** to run the server over internet.
 
