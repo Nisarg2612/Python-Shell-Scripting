@@ -1,6 +1,6 @@
 # Python Projects
 
-**Project 1: Crawling Search Engine**
+[Project 1: Crawling Search Engine](https://github.com/Nisarg2612/Python-Shell-Scripting/tree/main/mini%20projects/Project%201)
 
 - The search engine, crawl the content over the newhaven.edu domain.
 - The crawled content stored in JSON format with set.
@@ -9,14 +9,14 @@
 - Open the folder or clone repo on python editor.Before navigate to search_engine.py, once run the load.py to get the pickel file to retrieve results.
 - Launch the search engine using the command prompt python.exe, first run load.py command of **python load.py** and then **search_engine.py** to crawling the text.
 
-**Project 2: Web Interface Of Crawling Search Engine**
+[Project 2: Web Interface Of Crawling Search Engine](https://github.com/Nisarg2612/Python-Shell-Scripting/tree/main/mini%20projects/Project%202)
 
 - Basically it is program which provides the user interface to search the content over university of new haven website("http://www.newhaven.edu/").
 - To run the project on PC, clone the repo to a local directory or download it as zip and extract it.
 - Open the folder or clone repo on python editor.
 - Navigate to interface.py and run the file using the command **python interface.py** and once command prompt shows message like serving on port 8765 than after go to internet search engine and write **localhot:8765** to run the server over internet.
 
-**Project 3: Space Invaders pygame**
+[Project 3: Space Invaders pygame](https://github.com/Nisarg2612/Python-Shell-Scripting/tree/main/mini%20projects/Project%203)
 
 - The Space invaders pygame is simple two dimensional game. 
 - Clone the repo to a local directory or download it as zip and un-zip it.
@@ -29,7 +29,7 @@
 
 You can skip creating a virtual environment if you wish and ignore steps but it is not recommended.
 
-**Project 4: System Monitor**
+[Project 4: System Monitor](https://github.com/Nisarg2612/Python-Shell-Scripting/tree/main/mini%20projects/Project%204)
 
 - The system monitoring dashboard is web visualizer to showing the activities of the system resources usage.
 - Clone the repo to a local directory or download it as zip and un-zip it.
